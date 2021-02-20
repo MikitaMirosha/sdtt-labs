@@ -1,0 +1,1 @@
+- [**Structural and functional organization of a computer**](https://github.com/NikitaMirosha/SAFO-Labs) `Quartus II`
