@@ -1,1 +1,3 @@
-- [**Structural and functional organization of a computer**](https://github.com/NikitaMirosha/SAFO-Labs) `Quartus II`
+- [**Prallel lab**](https://github.com/NikitaMirosha/sdtt-labs/tree/master/lab1) `Java`
+- [**BarTraveler project**](https://github.com/NikitaMirosha/bar-traveler) `Python`
+- [**NewsFox project**](https://github.com/NikitaMirosha/news-fox) `Kotlin`
